@@ -30,7 +30,15 @@ The analysis includes:
 
 ## Sample SQL Query
 The following query retrieves the first 5 entries from the dataset:
-![alt text](image-2.png)
+
 ```sql
 SELECT * FROM steam_data LIMIT 5
+```
+![alt text](image-2.png)
 
+## Reference
+
+https://github.com/nogibjj/python-ruff-template
+
+TA's Video in Slack
+https://dataengineering2024.slack.com/files/U07JKCCUWH1/F080TBLMYGG/video1525284356.mp4
