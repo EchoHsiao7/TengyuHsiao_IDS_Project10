@@ -1,4 +1,4 @@
-# Video Game Sales Data Analysis
+# TengyuHsiao_IDS_Project10
 
 This project uses PySpark to analyze a dataset of the top 1500 video games by revenue for 2024, providing statistical insights and performing SQL queries.
 
