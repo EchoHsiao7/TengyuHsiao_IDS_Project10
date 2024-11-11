@@ -1,9 +1,7 @@
 from pyspark.sql import SparkSession
 
 # Initialize Spark session
-spark = SparkSession.builder \
-    .appName("CSV Statistics and SQL") \
-    .getOrCreate()
+spark = SparkSession.builder.appName("CSV Statistics and SQL").getOrCreate()
 
 # Read CSV file into a DataFrame
 file_path = "Steam_2024_bestRevenue_1500.csv"
