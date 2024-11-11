@@ -1,3 +1,4 @@
+[![CI](https://github.com/EchoHsiao7/TengyuHsiao_IDS_Project10/actions/workflows/cicd.yml/badge.svg)](https://github.com/EchoHsiao7/TengyuHsiao_IDS_Project10/actions/workflows/cicd.yml)
 # TengyuHsiao_IDS_Project10
 
 This project uses PySpark to analyze a dataset of the top 1500 video games by revenue for 2024, providing statistical insights and performing SQL queries.
